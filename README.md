@@ -89,7 +89,7 @@ License 📝
 This project is licensed under the MIT License.
 
 Author ✍
-Developed by Harshit9026.
+Developed by punitgithubboy.
 
 python
 Copy code
