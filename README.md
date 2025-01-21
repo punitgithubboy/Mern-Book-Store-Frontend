@@ -91,9 +91,6 @@ This project is licensed under the MIT License.
 Author ✍
 Developed by punitgithubboy.
 
-python
-Copy code
-
 ### How to Use:
 
 1. Replace the placeholder URLs in the "Screenshots" section with actual image links after uploading them to your repository or any image hosting platform.
